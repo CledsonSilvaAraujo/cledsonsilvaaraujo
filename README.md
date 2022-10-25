@@ -2,6 +2,6 @@
 
 
 
-- 🔭 I’m working with front-end and back-end
-- 🐱‍👤 I’m learning Vue.js
+- 🔭 I’m working with JavaScript and Typescript using Vue.js and Node.js
+- 🐱‍👤 I’m learning more about blockchain
 
